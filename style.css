@@ -1,14 +1,15 @@
-#liens {
-  width: 200px;
-  height: 200px;
-
-  display: flex;
-  flex-direction: row;
+.art{
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    border: 4px solid darkblue;
+    margin: 25px;
 }
 
-.Serveurs > * {
-  border: 2px solid rgb(96 139 168);
-  border-radius: 50000px;
-  background-color: rgb(96 139 168 / 0.2);
-
+.text-article {
+    margin: 20px 25px;
+    padding: 20px 25px;
+    text-align: center;
 }
