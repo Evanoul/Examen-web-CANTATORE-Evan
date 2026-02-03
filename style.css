@@ -1,0 +1,14 @@
+#liens {
+  width: 200px;
+  height: 200px;
+
+  display: flex;
+  flex-direction: row;
+}
+
+.Serveurs > * {
+  border: 2px solid rgb(96 139 168);
+  border-radius: 50000px;
+  background-color: rgb(96 139 168 / 0.2);
+
+}
